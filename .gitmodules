@@ -1,0 +1,15 @@
+[submodule "productos-ms"]
+	path = productos-ms
+	url = https://github.com/ContraIXosh/products-ms.git
+[submodule "pagos-ms"]
+	path = pagos-ms
+	url = https://github.com/ContraIXosh/payments-ms.git
+[submodule "compras-cabecera-ms"]
+	path = compras-cabecera-ms
+	url = https://github.com/ContraIXosh/orders-ms.git
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/ContraIXosh/client-gateway.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/ContraIXosh/auth-ms.git
